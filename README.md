@@ -26,7 +26,7 @@ Rather than a conventional government portal with clunky nested tables and stati
 - **Canvas Visuals:** HTML5 2D Canvas rendering an interactive constellation mesh representing the 108 Nodal centers across India
 - **Icons:** `lucide-react`
 - **Celebration Effects:** `canvas-confetti`
-- **AI Coding Assistant:** Google AI Studio Build (powered by Gemini models and Antigravity agent)
+- **AI Coding Assistant:** Antigravity agent
 
 ---
 
